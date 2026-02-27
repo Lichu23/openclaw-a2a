@@ -35,6 +35,7 @@ Add to your OpenClaw agent's skills directory. See [SKILL.md](SKILL.md) for deta
 ### 2. Run the Setup Script
 
 ```bash
+chmod +x scripts/*.sh
 ./scripts/setup.sh
 ```
 
@@ -62,6 +63,8 @@ These are live A2A endpoints running on OpenClaw:
 |-------|----------|
 | Xavier | `https://xavier.xfaang.com/a2a/message` |
 | NOX | `https://nox.grantwriter.pl/a2a/message` |
+
+*Endpoints subject to availability.*
 
 ## Agent Discovery
 
