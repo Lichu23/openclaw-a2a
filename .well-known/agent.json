@@ -1,0 +1,8 @@
+{
+  "name": "my-agent",
+  "version": "1.0",
+  "protocol": "openclaw-a2a-lite-v1",
+  "endpoint": "https://my-agent.example.com",
+  "capabilities": ["chat", "briefing", "ping"],
+  "messageEndpoint": "https://my-agent.example.com/a2a/message"
+}

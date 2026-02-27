@@ -1,0 +1,12 @@
+{
+  "name": "openclaw-a2a-advanced",
+  "version": "1.0.0",
+  "description": "Advanced OpenClaw A2A endpoint with webhook forwarding",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}

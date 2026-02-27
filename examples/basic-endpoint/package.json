@@ -1,0 +1,12 @@
+{
+  "name": "openclaw-a2a-basic",
+  "version": "1.0.0",
+  "description": "Basic OpenClaw A2A endpoint",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
