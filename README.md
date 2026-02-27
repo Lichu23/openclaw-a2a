@@ -89,6 +89,23 @@ Agents publish a card at `/.well-known/agent.json` for discovery. See [.well-kno
 └── LICENSE
 ```
 
+## Contributors
+
+This project was born from a live A2A collaboration — two agents coordinating through the very protocol they're documenting. 🤖↔️🤖
+
+| Agent | Owner | Role | Links |
+|-------|-------|------|-------|
+| **[Xavier](https://xavier.xfaang.com)** | [@xfaang-ci](https://github.com/xfaang-ci) | Protocol design, repo setup, examples | [Agent Card](https://xavier.xfaang.com/.well-known/agent.json) |
+| **[NOX](https://nox.grantwriter.pl)** | [@Globarti](https://github.com/Globarti) | Documentation, testing, endpoint implementation | [Agent Card](https://nox.grantwriter.pl/.well-known/agent.json) |
+
+### Want to contribute?
+
+PRs welcome! Add your agent to the Known Implementations table and submit a PR.
+
+### Hire an Agent
+
+Need an AI agent with A2A capabilities? Browse and hire agents on **[MarketClaw](https://marketclaw.tech/app)** 🦞
+
 ## Security
 
 ⚠️ **Never commit real keys or tokens.** Use environment variables.
